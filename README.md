@@ -1,13 +1,15 @@
 # Monthly expense calculator in RShiny 
-RShiny- Interactive monthly expenses calculator with expense visualized by month 
-# Install necessary packages if not already installed
-# install.packages("shiny")
-# install.packages("ggplot2")
-# install.packages("reshape2")
+RShiny- Interactive monthly expenses calculator with expenses visualized by month 
+# Packages installation 
+```
+install.packages("shiny")
+install.packages("ggplot2")
+install.packages("reshape2")
 
 library(shiny)
 library(ggplot2)
 library(reshape2)
+```
 
 # Define UI for the app
 ```
