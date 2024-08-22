@@ -109,3 +109,9 @@ server <- function(input, output) {
 ```
 shinyApp(ui = ui, server = server)
 ```
+# Brief look at the calculator's input interface
+<img width="550" alt="Screenshot 2024-08-22 at 3 36 39 PM" src="https://github.com/user-attachments/assets/0732bbc8-4d80-47a7-b2f6-77d21a933ce1">
+
+# Expenses broken down by category and months - Visualized 
+<img width="1099" alt="Screenshot 2024-08-22 at 3 36 58 PM" src="https://github.com/user-attachments/assets/9103716c-1a66-4f0c-9528-87415df589c3">
+
